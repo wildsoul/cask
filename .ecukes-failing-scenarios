@@ -1,0 +1,37 @@
+cask test
+invalid alias (quote)
+invalid alias (string)
+non existing alias
+carton file
+unbalanced parenthesis
+invalid read syntax
+no dependencies
+with dependency
+binary in local package
+with cask file
+with cask file
+with cask file
+empty cask file
+using package directive
+using package-file directive
+with cask file
+no dependencies
+single dependency
+multiple dependencies
+using package-file directive
+no argument to binary is same as install
+no dependencies
+single runtime dependency
+single development dependency
+multiple runtime dependencies
+multiple development dependencies
+multiple runtime and development dependencies
+package directory
+empty cask file
+using package directive no dependencies
+using package directive with dependencies
+using package-file directive
+with dependency
+empty cask file
+using package directive
+using package-file directive
